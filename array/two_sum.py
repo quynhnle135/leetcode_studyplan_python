@@ -21,4 +21,4 @@ print(my_solution.twoSum(nums2, target2))
 
 nums3 = [3, 3]
 target3 = 6
-print(my_solution.twoSum(nums3, target3))
+print(my_solution.twoSum(num3, target3))
